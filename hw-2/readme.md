@@ -7,4 +7,4 @@ This week was very difficult for me initially to setup my development environmen
 
 ## Text Editor Screen Shot
 
-![Screen shot example](text-editor-screenshot.png)
+![Screen shot example](text-editor-screenshot.PNG)
