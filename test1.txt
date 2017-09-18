@@ -3,10 +3,12 @@ Date: Sept. 10th, 2017
 
 This is my first text document for one of Dr. Musick's Media Arts courses.
 
-I added a new line to this file.  I am changing this line. 
+I added a new line to this file.  I am changing this line.
 
 Adding a new line, to demo git commits via powershell.
 
 These are additional demo changes.
 
 More lines added!!!!
+
+Adding a new line for GitHub Desktop Demo!
